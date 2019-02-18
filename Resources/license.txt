@@ -1,0 +1,38 @@
+The following files are exempt from the terms of this license:
+--------------------------------------------------------------
+The AsyncSocket Files (http://code.google.com/p/cocoaasyncsocket/):
+AsyncSocket.h
+AsyncSocket.m (modified slightly, to allow sockets to run in the common run loop modes, to prevent blocking during user interface polling, and updated to use newer error-handling API)
+Which are copyright (c) 2003 Dustin Voss, and are provided in the public domain,
+
+The Growl Framework (http://www.growl.info/)
+Which is copyright (c) 2004 The Growl Project, and provided under a BSD License,
+(see http://growl.info/documentation/developer/bsd-license.txt)
+
+Elements from ~Sekkyumu's "Developer Icon Set" (http://Sekkyumu.deviantart.com/art/Developpers-Icons-63052312/):
+Cancel Red Button.png
+Eject Blue Button.png
+Minus Red Button.png
+Network.png
+No Network.png
+Pause Blue Button.png
+Play Blue Button.png
+Play Green Button.png
+Stop Red Button.png
+Users.png
+Which are copyright (c) 2007-2010 ~Sekkyumu, and are provided for use in any software project, but may not be resold individually or as a pack,
+
+And the "default" theme from GTetrinet (http://gtetrinet.sourceforge.net/):
+gtetblocks.png (original title: "blocks.png")
+GTetrinetTheme.cfg (original title: "theme.cfg")
+Which are copyright (c) to the GTetrinet project and released under the Gnu Public License version 2, and MAY NOT BE REDISTRIBUTED WITH COMMERCIAL SOFTWARE or encumbered by patents of any kind.
+
+--------------------------------------------------------------
+All other files are copyright (c) 2009-2010 Alex Heinz
+--------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated resource and documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
